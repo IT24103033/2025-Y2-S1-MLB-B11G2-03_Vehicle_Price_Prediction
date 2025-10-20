@@ -1,4 +1,6 @@
-# Group_B11G2 - IT2011 Group Assignment - Progress Review I
+# Group_B11G2 - IT2011 Group Assignment 
+
+Progress Review I
 
 ## Project Overview
 This repository contains the preprocessing and EDA work for our group assignment.
